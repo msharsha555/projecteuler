@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1385316878 source:c:\users\sriharsha\downloads\projecteuler\projecteuler\main.cpp
+	<iostream>
+
+1466787460 source:c:\users\sriharsha\downloads\projecteuler\projecteuler\src\prime.cpp
+	"prime.h"
+
+1466787460 c:\users\sriharsha\downloads\projecteuler\projecteuler\include\prime.h
+
